@@ -50,6 +50,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
+<<<<<<< HEAD
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -61,6 +62,8 @@
                     <testTarget>1.8</testTarget>
                 </configuration>
             </plugin>
+=======
+>>>>>>> 743b10471d333aaa036f91663cb6c4e3f33c0e0d
         </plugins>
     </build>
 
