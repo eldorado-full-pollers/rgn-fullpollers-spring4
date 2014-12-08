@@ -5,20 +5,21 @@ Spring 4 Doodling!!!!!
 ----------------------
 
 
-'''
-java
+```java
 
 public class Teste{
-	private String teste;
+	public static void main (String args[]){
+		Arrays.asList("Hello","World").stream().map(System.out::println);
+	}
 }
 
-'''
+```
 
 Devs
 -------
 
-| Dev      | E-mail                |
-| -------- | ---------------------:|
-| Nilseu   | ragnarokkrr@gmail.com |
-| Gabriel  | ------  |
+| Dev      | A.K.A.      |E-mail                |
+| -------- |:-----------:|---------------------:|
+| Nilseu   | RagnaRoKKrr |ragnarokkrr@gmail.com |
+| Gabriel  | Grevos      |gabriel.beck.santos@gmail.com  |
 
